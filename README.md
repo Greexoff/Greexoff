@@ -1,4 +1,3 @@
-## Hi Im Saul Goodman
 
 ### About Me
 * Bachelor's student in Computer Science at the Silesian University of Technology
