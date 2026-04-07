@@ -29,8 +29,9 @@
 
 ### Currently Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,dotnet,spring" />
+  <img src="https://skillicons.dev/icons?i=angular,spring" />
 </p>
+
 ---
 
 ### Contact Me
