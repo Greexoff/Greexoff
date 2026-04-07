@@ -10,7 +10,7 @@
 
 ### Low-Level & Desktop
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,qt,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,qt,linux" />
 </p>
 
 ### IDEs & Tools
