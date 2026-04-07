@@ -1,5 +1,5 @@
 
-### About Me
+## About Me
 * Bachelor's student in Computer Science at the Silesian University of Technology
 * Active Member of vFly Research Group, where I collaborate on innovative technical projects and develop my engineering skills.
 * Aspiring Developer with a strong interest in *Web Development*, *Low-level Programming*, and *Game Development*.
