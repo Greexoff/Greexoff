@@ -5,7 +5,6 @@
 * Aspiring Developer with a strong interest in *Web Development*, *Low-level Programming*, and *Game Development*.
 
 ---
-
 ### Backend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin,postgres,postman" />
@@ -26,6 +25,12 @@
   <img src="https://skillicons.dev/icons?i=visualstudio,rider,idea,vscode,git" />
 </p>
 
+---
+
+### Currently Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,dotnet,spring" />
+</p>
 ---
 
 ### Contact Me
