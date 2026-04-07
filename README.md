@@ -29,7 +29,7 @@
 
 ### Currently Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,spring" />
+  <img src="https://skillicons.dev/icons?i=angular,docker,spring" />
 </p>
 
 ---
