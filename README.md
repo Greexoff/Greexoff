@@ -1,4 +1,4 @@
-### Backend Development & Languages
+### Backend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin,postgres,postman" />
 </p>
