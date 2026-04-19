@@ -17,12 +17,12 @@
 
 ### Low-Level & Desktop
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,qt,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,qt" />
 </p>
 
 ### IDEs & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,rider,idea,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,rider,idea,vscode,git,linux" />
 </p>
 
 ---
