@@ -7,7 +7,7 @@
 ---
 ### Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin,postgres,postman" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin,postgres,python" />
 </p>
 
 ### Frontend & Design
@@ -22,14 +22,14 @@
 
 ### IDEs & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,rider,idea,vscode,git,linux" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,rider,idea,vscode,git,linux,docker,postman" />
 </p>
 
 ---
 
 ### Currently Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,docker,spring" />
+  <img src="https://skillicons.dev/icons?i=angular,spring,sklearn,tensorflow" />
 </p>
 
 ---
