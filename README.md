@@ -29,7 +29,7 @@
 
 ### Currently Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,spring,sklearn,tensorflow,keras" />
+  <img src="https://skillicons.dev/icons?i=angular,spring,sklearn,tensorflow" />
 </p>
 
 ---
